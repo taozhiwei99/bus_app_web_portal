@@ -1,0 +1,49 @@
+@import 'defaultstyle';
+
+// "min-vh-100 d-flex flex-row align-items-center"
+.maindiv {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+// "justify-content-center"
+.crow {
+  justify-content: center;
+}
+
+// style={{ transform: 'scale(1.2)' }}
+.ccardgrp {
+  transform: scale(1.2);
+}
+
+// style={{ borderWidth: 0 }}
+// "p-4"
+.ccard {
+  border-width: 0px;
+  padding: 16px;
+}
+
+// style={{ color: '#56844B', fontWeight: 'bold', textAlign: 'center' }}
+.h1 {
+  color: #56844B;
+  font-weight: bold;
+  text-align: center;
+}
+
+// "mb-3"
+.cinputgrp {
+  margin-bottom: 12px;
+  margin-top: 12px;
+}
+
+// style={{ backgroundColor: '#56844B', fontWeight: 'bold' }}
+// className="px-4 mt-5"
+.cbtn {
+  background-color: #56844B;
+  font-weight: bold;
+  padding-left: 16px;
+  padding-right: 16px;
+  margin-top: 20px;
+}

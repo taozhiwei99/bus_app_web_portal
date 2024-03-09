@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-wipproject-dev-215736-authRole",
+      "UnauthRoleArn": "arn:aws:iam::561882515569:role/amplify-wipproject-dev-215736-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::561882515569:role/amplify-wipproject-dev-215736-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-wipproject-dev-215736-deployment",
+      "UnauthRoleName": "amplify-wipproject-dev-215736-unauthRole",
+      "StackName": "amplify-wipproject-dev-215736",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:561882515569:stack/amplify-wipproject-dev-215736/0ef0b2e0-20bc-11ee-a786-0216f8fa05ba",
+      "AmplifyAppId": "d3l634ogt6ok4t"
+    }
+  }
+}
